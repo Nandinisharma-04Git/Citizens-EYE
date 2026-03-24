@@ -1,0 +1,7 @@
+complaint_id,user_id,location_geotag,violation_type_manual,license_plate,vehicle_type,violation_type_ai,confidence_score,status,timestamp
+cmp-001,usr-citizen-01,"28.6139,77.2090",Signal Jump,DL03AB1234,Motorcycle,Red Light,0.93,Resolved,2025-11-20T09:15:00Z
+cmp-002,usr-citizen-02,"12.9716,77.5946",Wrong Parking,KA05MN7788,Sedan,Illegal Parking,0.88,Pending,2025-11-21T18:42:00Z
+cmp-003,usr-citizen-03,"19.0760,72.8777",No Helmet,MH14QZ4400,Scooter,Helmet Violation,0.90,Under Review,2025-11-22T07:55:00Z
+cmp-004,usr-citizen-01,"13.0827,80.2707",Overspeeding,TN09JK9900,SUV,Overspeeding,0.86,Resolved,2025-11-23T12:10:00Z
+cmp-005,usr-citizen-04,"17.3850,78.4867",Lane Cutting,TS10BD7700,Hatchback,Unsafe Lane Change,0.81,Pending,2025-11-23T20:33:00Z
+
